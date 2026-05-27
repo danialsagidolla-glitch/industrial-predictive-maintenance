@@ -1,5 +1,11 @@
 # Industrial Motor Predictive Maintenance 
 
+##CSV Source
+
+The CSV file could not be uploaded, because the file was too large. However, the data set was taken from Kaggle.com and hence, the link to the data set in kaggle.com will be provided here. 
+
+https://www.kaggle.com/datasets/sdeogade/sparse-industrial-machine-time-series-dataset
+
 ## Project Overview
 This project applies Machine Learning to industrial telemetry data to predict equipment failure before it happens. By analyzing high-frequency sensor data (temperature, load, and vibration), the goal is to identify anomalous physical states and classify whether a machine is at risk of an imminent breakdown.
 
